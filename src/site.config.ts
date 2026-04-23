@@ -130,7 +130,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        eyebrowText: 'Galaxy of Adventures',
+        eyebrowText: 'Bienvenido',
         title: 'Hola, soy Raúl ✨',
         text: "Written by Astro-naut Sid, a space explorer at Beyond Earth.",
         image: {
