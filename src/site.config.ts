@@ -69,7 +69,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     website: 'https://example.com',
-    title: 'Space Ahead',
+    title: 'Raúl Trujillo Lucano',
     description: 'A minimal space-inspired personal blog template built with Astro.js and Tailwind CSS, by Siddhesh Thadeshwar',
     image: {
         src: '/space-ahead-preview.jpeg',
@@ -110,7 +110,7 @@ const siteConfig: SiteConfig = {
             text: 'RSS Feed',
             href: withBase('/rss.xml')
         },
-                {
+        {
             text: 'Sitemap',
             href: withBase('/sitemap-index.xml')
         }
@@ -131,7 +131,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         eyebrowText: 'Galaxy of Adventures',
-        title: 'Space Ahead ✨',
+        title: 'Hola, soy Raúl ✨',
         text: "Written by Astro-naut Sid, a space explorer at Beyond Earth.",
         image: {
             src: '/assets/images/pixeltrue-space-discovery.svg',
